@@ -8,11 +8,11 @@
 * Insert SD
 * Connect to power
 ## MacOS terminal
-* Type (replace IP) *1
+* Type (replace IP) *1. Use password "raspberry"
 ```
 ssh pi@192.168.1.6
 ```
-* Use password "raspberry"
+* Install some programs
 ```
 sudo apt-get update
 sudo apt-get upgrade
