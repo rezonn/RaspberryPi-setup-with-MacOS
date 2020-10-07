@@ -3,7 +3,7 @@
 * Install [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
 * Select recommendend image, select SD card, flash
 * Unplug and plug SD card
-* Copy "wpa_supplicant.conf" (replace SSID and pasword in file) and "ssh" to sd card
+* Copy "wpa_supplicant.conf" (*replace SSID and pasword in file*) and "ssh" to sd card
 ## Pi
 * Insert SD
 * connect to power
