@@ -3,7 +3,7 @@
 * Install [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
 * Select recommendend OS in "Choose OS", Choose SD, Write!
 * Unplug and plug SD
-* Copy [wpa_supplicant.conf](wpa_supplicant.conf) (*replace "wifissid" and "wifipass"*) and [ssh](ssh) to sd card
+* Copy [wpa_supplicant.conf](wpa_supplicant.conf) (*replace "wifissid" and "wifipass"*) and [ssh](ssh) (empty file) to sd card
 ## Pi
 * Insert SD
 * Connect to power
