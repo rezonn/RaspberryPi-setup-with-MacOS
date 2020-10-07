@@ -25,7 +25,7 @@ sudo pip install s-tui
 ```
 s-tui
 ```
-On/Off gpio pin
+* On/Off gpio pin
 ```
 echo 20 > /sys/class/gpio/export
 echo out > /sys/class/gpio/gpio20/direction
