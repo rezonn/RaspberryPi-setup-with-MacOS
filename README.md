@@ -1,12 +1,12 @@
 # raspberry-start
 ## MacOS
 * Install [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
-* Select recommendend image, select SD, flash
+* Select recommendend OS in "Choose OS", Choose SD, Write!
 * Unplug and plug SD
 * Copy [wpa_supplicant.conf](wpa_supplicant.conf) (*replace "wifissid" and "wifipass"*) and [ssh](ssh) to sd card
 ## Pi
 * Insert SD
-* connect to power
+* Connect to power
 ## MacOS terminal
 * Type (replace IP) *1
 ```
