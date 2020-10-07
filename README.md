@@ -19,7 +19,7 @@ sudo apt-get upgrade
 sudo apt-get install nodejs npm
 sudo apt-get install xrdp
 ```
-* Use [Microsoft RDP](https://apps.apple.com/ru/app/microsoft-remote-desktop)
+* Use [Microsoft RDP](https://apps.apple.com/ru/app/microsoft-remote-desktop/id1295203466?mt=12)
 ## Notes
 *1 - Host key verification failed? 
 ```
