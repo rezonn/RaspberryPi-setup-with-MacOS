@@ -40,3 +40,9 @@ echo 0 > /sys/class/gpio/gpio20/value
 cd .ssh
 rm known_hosts
 ```
+*2 - Rremove some programs
+```
+sudo apt-get purge wolfram-engine libreoffice* scratch -y
+sudo apt-get clean
+sudo apt-get autoremove -y
+```
