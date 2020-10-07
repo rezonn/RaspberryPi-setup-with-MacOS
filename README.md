@@ -31,3 +31,12 @@ s-tui
 cd .ssh
 rm known_hosts
 ```
+*2 - On/Off pins in terminal
+```
+echo 20 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio20/direction
+#turn on
+echo 1 > /sys/class/gpio/gpio20/value
+#turn off
+echo 0 > /sys/class/gpio/gpio20/value
+```
