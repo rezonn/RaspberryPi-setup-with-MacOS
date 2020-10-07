@@ -20,7 +20,7 @@ sudo apt-get install nodejs npm
 sudo apt-get install xrdp
 sudo pip install s-tui
 ```
-* Use [Microsoft RDP](https://apps.apple.com/ru/app/microsoft-remote-desktop/id1295203466?mt=12) to remote connect
+* Use [Microsoft Remote Desktop](https://apps.apple.com/ru/app/microsoft-remote-desktop/id1295203466?mt=12) to remote connect
 * Type to processor monitoring
 ```
 s-tui
