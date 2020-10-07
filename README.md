@@ -1,8 +1,8 @@
 # raspberry-start
 ## MacOS
 * Install [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
-* Select recommendend image, select SD card, flash
-* Unplug and plug SD card
+* Select recommendend image, select SD, flash
+* Unplug and plug SD
 * Copy [wpa_supplicant.conf](wpa_supplicant.conf) (*replace "wifissid" and "wifipass"*) and [ssh](ssh) to sd card
 ## Pi
 * Insert SD
