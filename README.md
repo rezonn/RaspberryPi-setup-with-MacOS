@@ -6,7 +6,7 @@
 * Copy [wpa_supplicant.conf](wpa_supplicant.conf) (*replace "wifissid" and "wifipass"*) and [ssh](ssh) (empty file) to sd card
 ## Pi
 * Insert SD
-* Connect to power
+* Power on
 ## MacOS terminal
 * Type (replace IP) *1. Use password "raspberry"
 ```
