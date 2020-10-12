@@ -46,3 +46,10 @@ sudo apt-get purge wolfram-engine libreoffice* scratch -y
 sudo apt-get clean
 sudo apt-get autoremove -y
 ```
+* For USB cam
+```
+dmesg -T
+sudo apt install fswebcam
+fswebcam -r 640x480 image.jpg
+sudo apt install uvcdynctrl
+```
