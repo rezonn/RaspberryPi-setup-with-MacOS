@@ -1,4 +1,4 @@
-# raspberry-start
+
 ## MacOS
 * Install [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/)
 * plug SD (>=8Gb)
